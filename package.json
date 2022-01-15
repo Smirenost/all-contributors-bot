@@ -48,7 +48,7 @@
     "serverless": "^1.39.1",
     "serverless-dotenv-plugin": "^2.0.1",
     "serverless-offline": "^5.0.0",
-    "shelljs": "^0.8.3"
+    "shelljs": "^0.8.5"
   },
   "jest": {
     "testEnvironment": "node",
